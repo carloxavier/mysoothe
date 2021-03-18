@@ -10,4 +10,10 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="welcome_title">MYSOOTHE</string>
+    <string name="signup_button">SIGNUP</string>
+    <string name="login_button">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email">Email address</string>
+    <string name="login_title">LOG IN</string>
 </resources>
